@@ -72,7 +72,7 @@ body {
   }
   .topNavBar .logo .rs {
     margin-right: 4px;
-    color: #e6686a;s
+    color: #e6686a;
   }
   .topNavBar .logo .card {
     color: #9a9da2;
@@ -259,7 +259,7 @@ body {
     margin-bottom: 100px;
   }
   section.portfolio >nav >ol{
-   margin:0 auyto;
+   margin:0 auto;
    display: inline-block;
    vertical-align: top;
   }
